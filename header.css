@@ -1,0 +1,127 @@
+
+
+
+.header_container{
+    height: 100%;
+    background-color:var(--background-color );
+background-image:url(Rectangle.png);
+    background-repeat: no-repeat;
+    background-position:center;
+
+   
+   
+ 
+}
+
+.nav{
+
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    gap: 25px;
+    color:var(--font-primary-color);
+    
+    font-size: 36px;
+}
+#icon{
+    
+    width: 175px;
+    text-align: right;
+}
+.speech{
+    font-size: 70px;
+    text-transform: uppercase;
+    font-weight:bolder;
+    letter-spacing: 5px;
+    margin: 20px;
+}
+.para{
+    font-family: Anton;
+font-size: 20px;
+font-weight: 400;
+
+text-align: justified;
+padding-left:20px ;
+}
+.banner-profile-container{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid var(--font-primary-color);
+    border-bottom: 1px solid var(--font-primary-color);
+    
+    
+}
+.banner-profile-desc{
+  
+    padding: 20px;
+    flex-direction: column;
+    justify-content: end;
+    font-size: 45px;
+    display: flex;
+    border-bottom: 1 px solid var(--font-primary-color);
+    margin-bottom: 20px;
+}
+.profile-icon{
+    display: flex;
+}
+
+.banner-image-container{
+    background-color: white;
+    width: 500px;
+    padding-left: 20px;
+   margin-right: 20px;
+    
+
+    
+}
+.project-cp{
+    background-color: black; 
+    display: flex;
+    justify-content: space-between;
+    background-size: contain;
+    margin: 0px;
+}
+.a h1{
+    font-size: 70px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+
+}
+.a p{
+    font-size: 20px;
+}
+.b h1{
+    font-size: 70px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.b p{
+    font-size: 20px;
+}
+.c h1{
+    font-size: 70px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.c p{
+    font-size: 20px;
+}
+.d h1{
+    font-size: 70px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.d p{
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+    
+
+
